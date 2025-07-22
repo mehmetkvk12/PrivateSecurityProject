@@ -1,0 +1,50 @@
+D:\MYALI\G2\2023Güz\OzGu\OzGu\bin\Debug\OzGu.exe.config
+D:\MYALI\G2\2023Güz\OzGu\OzGu\bin\Debug\OzGu.exe
+D:\MYALI\G2\2023Güz\OzGu\OzGu\bin\Debug\OzGu.pdb
+D:\MYALI\G2\2023Güz\OzGu\OzGu\bin\Debug\OzGu.xml
+D:\MYALI\G2\2023Güz\OzGu\OzGu\obj\Debug\OzGu.vbprojAssemblyReference.cache
+D:\MYALI\G2\2023Güz\OzGu\OzGu\obj\Debug\OzGu.AnaForm.resources
+D:\MYALI\G2\2023Güz\OzGu\OzGu\obj\Debug\OzGu.Resources.resources
+D:\MYALI\G2\2023Güz\OzGu\OzGu\obj\Debug\OzGu.vbproj.GenerateResource.cache
+D:\MYALI\G2\2023Güz\OzGu\OzGu\obj\Debug\OzGu.vbproj.CoreCompileInputs.cache
+D:\MYALI\G2\2023Güz\OzGu\OzGu\obj\Debug\OzGu.exe
+D:\MYALI\G2\2023Güz\OzGu\OzGu\obj\Debug\OzGu.xml
+D:\MYALI\G2\2023Güz\OzGu\OzGu\obj\Debug\OzGu.pdb
+D:\MYALI\G2\2023Güz\OzGu\OzGu\obj\Debug\OzGu.OzelGuvenlikKayitFormu.resources
+D:\MYALI\G2\2023Güz\OzGu\OzGu\obj\Debug\OzGu.GuvenlikNoktasiListeFormu.resources
+D:\MYALI\G2\2023Güz\OzGu\OzGu\obj\Debug\OzGu.LoginFormu.resources
+D:\MYALI\G2\2023Güz\OzGu\OzGu\obj\Debug\OzGu.SifremiUnuttumFormu.resources
+C:\2023Güz\OzGu\OzGu\bin\Debug\OzGu.exe.config
+C:\2023Güz\OzGu\OzGu\bin\Debug\OzGu.exe
+C:\2023Güz\OzGu\OzGu\bin\Debug\OzGu.pdb
+C:\2023Güz\OzGu\OzGu\bin\Debug\OzGu.xml
+C:\2023Güz\OzGu\OzGu\obj\Debug\OzGu.vbprojAssemblyReference.cache
+C:\2023Güz\OzGu\OzGu\obj\Debug\OzGu.AnaForm.resources
+C:\2023Güz\OzGu\OzGu\obj\Debug\OzGu.GuvenlikNoktasiListeFormu.resources
+C:\2023Güz\OzGu\OzGu\obj\Debug\OzGu.LoginFormu.resources
+C:\2023Güz\OzGu\OzGu\obj\Debug\OzGu.Resources.resources
+C:\2023Güz\OzGu\OzGu\obj\Debug\OzGu.OzelGuvenlikBedenBilgiFormu.resources
+C:\2023Güz\OzGu\OzGu\obj\Debug\OzGu.OzelGuvenlikKayitFormu.resources
+C:\2023Güz\OzGu\OzGu\obj\Debug\OzGu.SifremiUnuttumFormu.resources
+C:\2023Güz\OzGu\OzGu\obj\Debug\OzGu.vbproj.GenerateResource.cache
+C:\2023Güz\OzGu\OzGu\obj\Debug\OzGu.vbproj.CoreCompileInputs.cache
+C:\2023Güz\OzGu\OzGu\obj\Debug\OzGu.exe
+C:\2023Güz\OzGu\OzGu\obj\Debug\OzGu.xml
+C:\2023Güz\OzGu\OzGu\obj\Debug\OzGu.pdb
+D:\Belgeler2\2.3 Görsel Programlama 2\OzGu\OzGu\bin\Debug\OzGu.exe.config
+D:\Belgeler2\2.3 Görsel Programlama 2\OzGu\OzGu\bin\Debug\OzGu.exe
+D:\Belgeler2\2.3 Görsel Programlama 2\OzGu\OzGu\bin\Debug\OzGu.pdb
+D:\Belgeler2\2.3 Görsel Programlama 2\OzGu\OzGu\bin\Debug\OzGu.xml
+D:\Belgeler2\2.3 Görsel Programlama 2\OzGu\OzGu\obj\Debug\OzGu.vbproj.AssemblyReference.cache
+D:\Belgeler2\2.3 Görsel Programlama 2\OzGu\OzGu\obj\Debug\OzGu.AnaForm.resources
+D:\Belgeler2\2.3 Görsel Programlama 2\OzGu\OzGu\obj\Debug\OzGu.GuvenlikNoktasiListeFormu.resources
+D:\Belgeler2\2.3 Görsel Programlama 2\OzGu\OzGu\obj\Debug\OzGu.LoginFormu.resources
+D:\Belgeler2\2.3 Görsel Programlama 2\OzGu\OzGu\obj\Debug\OzGu.Resources.resources
+D:\Belgeler2\2.3 Görsel Programlama 2\OzGu\OzGu\obj\Debug\OzGu.OzelGuvenlikBedenBilgiFormu.resources
+D:\Belgeler2\2.3 Görsel Programlama 2\OzGu\OzGu\obj\Debug\OzGu.OzelGuvenlikKayitFormu.resources
+D:\Belgeler2\2.3 Görsel Programlama 2\OzGu\OzGu\obj\Debug\OzGu.SifremiUnuttumFormu.resources
+D:\Belgeler2\2.3 Görsel Programlama 2\OzGu\OzGu\obj\Debug\OzGu.vbproj.GenerateResource.cache
+D:\Belgeler2\2.3 Görsel Programlama 2\OzGu\OzGu\obj\Debug\OzGu.vbproj.CoreCompileInputs.cache
+D:\Belgeler2\2.3 Görsel Programlama 2\OzGu\OzGu\obj\Debug\OzGu.exe
+D:\Belgeler2\2.3 Görsel Programlama 2\OzGu\OzGu\obj\Debug\OzGu.xml
+D:\Belgeler2\2.3 Görsel Programlama 2\OzGu\OzGu\obj\Debug\OzGu.pdb
